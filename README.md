@@ -1,2 +1,2 @@
 # Git-branches
-One of many exercises
+One of many exercises.
